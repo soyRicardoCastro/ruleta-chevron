@@ -2,7 +2,7 @@ const words = [
   'luces camara y accion',
   'la vida es una pelicula',
   'que ahorita es que comienza',
-  'yeremy se sorprendio'
+  'chevron proyecto web'
 ]
 
 export function getWord () {
